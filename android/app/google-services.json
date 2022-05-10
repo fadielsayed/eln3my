@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "364765776100",
+    "firebase_url": "https://eln3my-e5c98.firebaseio.com",
+    "project_id": "eln3my-e5c98",
+    "storage_bucket": "eln3my-e5c98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364765776100:android:265a678b6670d9e1b504f1",
+        "android_client_info": {
+          "package_name": "com.example.elnaamy_group"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364765776100-gekormk0qnfrnbjfrq9qcg92deq3hinj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIDE0V6ybhsxLSzeOJrQakdPkmNZLLdsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364765776100-gekormk0qnfrnbjfrq9qcg92deq3hinj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

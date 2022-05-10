@@ -1,0 +1,580 @@
+{
+  "@@last_modified": "2020-02-23T00:11:46.246486",
+  "appTitle": "النعمي",
+  "@appTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNumber": "ادخل النص",
+  "@phoneNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "vldpasswordrequired": "من فضلك ادخل الرقم السري",
+  "@vldpasswordrequired": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "vldpasswordlength": "يجب ان يكون الرقم السري اكثر من 6 ارقام",
+  "@vldpasswordlength": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "vldphonerequired": "ادحل الرقم ",
+  "@vldphonerequired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "vldphonelength": "الرقم يجب ان يكون اكثر من 12",
+  "@vldphonelength": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "locale": "ar",
+  "@locale": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "تسجيل الدخول",
+  "@login": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userName": "اسم المستخدم",
+  "@userName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "كلمه المرور",
+  "@password": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetPaasword": "هل فقدت كلمه المرور؟",
+  "@resetPaasword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "signUp": "تسجيل حساب جديد",
+  "@signUp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "email": "البريد الالكتروني",
+  "@email": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phone": "رقم الجوال",
+  "@phone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "iAgreeAll": "اوافق علي جميع",
+  "@iAgreeAll": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "termsAndConditions": "الشروط والاحكام",
+  "@termsAndConditions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetPasswordAppBar": " فقدت كلمه المرور",
+  "@resetPasswordAppBar": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendCode": "سوف نقوم بارسال كود علي بريدك الالكتروني لتعين كلمه مرور جديدة",
+  "@sendCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmPassword": "اعد كتابه كلمه المرور",
+  "@confirmPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "send": "ارسال",
+  "@send": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "home": "الرئيسيه",
+  "@home": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "section": "الاقسام",
+  "@section": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myOrders": "الطلبات",
+  "@myOrders": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "favorits": "رغباتي",
+  "@favorits": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myAccount": "حسابى",
+  "@myAccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchForProduct": "البحث عن المنتجات",
+  "@searchForProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "product": "المنتجات",
+  "@product": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "services": "الخدمات",
+  "@services": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "offersAndDiscount": "العروض والتخفيضات",
+  "@offersAndDiscount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareApp": "مشاركه التطبيق",
+  "@shareApp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "aboutApp": "عن التطبيق",
+  "@aboutApp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contactus": "تواصل معنا",
+  "@contactus": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logOut": "تسجيل الخروج",
+  "@logOut": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sectionStore": "اقسام المتجر",
+  "@sectionStore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productMedicine": "المنتجات الطبيه",
+  "@productMedicine": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "servicesMedicine": "الخدمات الطبيه",
+  "@servicesMedicine": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderManagment": "اداره الطلبات",
+  "@orderManagment": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "favoriteLists": "الرغبات",
+  "@favoriteLists": {
+    "type": "text",
+    "placeholders": {}
+  }
+  ,
+  "productFavorite": "المنتجات المفضله",
+  "@productFavorite": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "servicesFavorite": "الخدمات المفضله",
+  "@servicesFavorite": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "address": "العناوين",
+  "@address": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountDeatails": "تفاصيل الحساب",
+  "@accountDeatails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "replacementAndReturnPolicy": "سياسه الاستبدال والاسترجاع",
+  "@replacementAndReturnPolicy": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "replaceMentAndReturnRequest": "طلبات الاستبدال والاسترجاع",
+  "@replaceMentAndReturnRequest": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "priacyPolicy": "سياسه الخصوصيه",
+  "@priacyPolicy": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "newUser": "جديد",
+  "@newUser": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addCart": "اضف لسله",
+  "@addCart": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "subscribenow": "احجز الان",
+  "@subscribenow": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addNotes": "الملاحظات",
+  "@addNotes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notes": "الملاحظات",
+  "@notes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "close": "الغاء",
+  "@close": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "saveNow": "حفظ",
+  "@saveNow": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productDetails": "التفاصيل",
+  "@productDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "description": "تفاصيل الخدمة",
+  "@description": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productManagment": "اداره الطلبات",
+  "@productManagment": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dateOrder": "تاريخ الحجز",
+  "@dateOrder": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourOrderNum": "رقم الحجز الخاص بك",
+  "@yourOrderNum": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sumOrder": "اجمالي الطلب",
+  "@sumOrder": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "serviceManagment": " اداره الخدمات",
+  "@serviceManagment": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ordersDetails": "تفاصيل الطلبات",
+  "@ordersDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "welcomTo": "مرحبا بك ",
+  "@welcomTo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shipingTo": "الشحن الى",
+  "@shipingTo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "theProductIncludeYourOrder": "المنتجات المتضمنه في طلبك",
+  "@theProductIncludeYourOrder": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "returnProduct": "ارجاع المنتجات",
+  "@returnProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "rateProduct": "تقيم المنتج",
+  "@rateProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cantLoad": "تعذر التحميل",
+  "@cantLoad": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shopingCart": "سله التسوق",
+  "@shopingCart": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youShouldLogIn": "يجب تسجيل الدخول",
+  "@youShouldLogIn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noData": "لايوجد شبكه ",
+  "@noData": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notesToReqest": "الملاحظات علي الطلب",
+  "@notesToReqest": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "totalAmount": "اجمالي الكميه",
+  "@totalAmount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tax5vat": "الضريبه  5 % VAT",
+  "@tax5vat": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "thePriceIncludeTax": "الاسعار شامله الضريبه",
+  "@thePriceIncludeTax": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sum": "الاجمالي",
+  "@sum": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "followUpThePurchase": "متابعه عمليه الشراء",
+  "@followUpThePurchase": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSure": "هل انت متاكد",
+  "@areYouSure": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "doYouWantRemove": "هل تريد حذف هذا المنتج من السله",
+  "@doYouWantRemove": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no": "لا",
+  "@no": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yes": "نعم",
+  "@yes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invoiceDetails": "تفاصيل الفاتورة",
+  "@invoiceDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noAddressGoToAddAddress": "لايجود عنوان اذهب لاضافه عنواين",
+  "@noAddressGoToAddAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addAddress": "اضافة عنوان",
+  "@addAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectAddress": "اختار العنوان",
+  "@selectAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "chanage": "تغير",
+  "@chanage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourOrder": "طلبك",
+  "@yourOrder": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shipping": "الشحن",
+  "@shipping": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addresses": "العناوين",
+  "@addresses": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "firstName": "الاسم الاول",
+  "@firstName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lastName": "الاسم الاخير",
+  "@lastName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "zipCode": "كودzip ",
+  "@zipCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "destination": "المكان ",
+  "@destination": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "region": "المنطقة ",
+  "@region": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editeAddress": "تعديل العنوان ",
+  "@editeAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmation": "تاكيد ",
+  "@confirmation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youShouldApproveTermsAndCondition": "يجب الموافق علي الشروط الاحكام",
+  "@youShouldApproveTermsAndCondition": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youShouldSelectaddress": "يجب اختيار العنوان",
+  "@youShouldSelectaddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "returnOrder": "ارجاع الطلب",
+  "@returnOrder": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reasonreturn": "سبب الارجاع",
+  "@reasonreturn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "error": "خطا",
+  "@error": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noAddress": "لايوجد عنوان",
+  "@noAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "someThingWorngHappen": "حدث خطا ما",
+  "@someThingWorngHappen": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetPasswordActivate": "تفعيل كلمه المرور",
+  "@resetPasswordActivate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "weWillSendCodeYouremail": "ادخل الكود المرسل عبر البريد الالكترني لاضافه كلمه المرورالجديدة",
+  "@weWillSendCodeYouremail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pinCode": "كود التفعيل",
+  "@pinCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "newPassword": "كلمه المرور المرورالجديدة",
+  "@newPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmNewPassword": "اعد كتابه كلمه المرورالجديدة",
+  "@confirmNewPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidCode": "الكود خاطئ",
+  "@invalidCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "save": "حفظ",
+  "@save": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "connectUs": "تواصل معنا",
+  "@connectUs": {
+    "type": "text",
+    "placeholders": {}
+  }
+  ,
+  "message": "الرساله",
+  "@message": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "repeatPassword": "اعد كتابه كلمه المرور",
+  "@repeatPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "replacementPolicy": "سياسه الاستبدال",
+  "@replacementPolicy": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "replacementrequest": "طلبات الاستبدال",
+  "@replacementrequest": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reason": "السبب",
+  "@reason": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "replaceMentAndReturn": "الاستبدالاسترجاع",
+  "@replaceMentAndReturn": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

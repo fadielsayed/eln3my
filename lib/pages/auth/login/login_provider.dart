@@ -1,0 +1,62 @@
+import 'package:elnaamy_group/locale/localizations.dart';
+import 'package:elnaamy_group/models/app/app_entity.dart';
+import 'package:elnaamy_group/models/app/app_state_model.dart';
+import 'package:elnaamy_group/models/auth/user_entity.dart';
+import 'package:elnaamy_group/models/utils/env.dart';
+import 'package:flutter/material.dart';
+import 'dart:async';
+import 'package:http/http.dart' as http;
+import 'package:provider/provider.dart';
+import 'dart:convert';
+
+import 'package:toast/toast.dart';
+
+class LoginProvider with ChangeNotifier {
+  bool _isLoading = false;
+  bool get isLoading => _isLoading;
+
+  void setIsLoading(bool islaoding) {
+    _isLoading = islaoding;
+    notifyListeners();
+  }
+
+  Future login(String name, String password, BuildContext context) async {
+    setIsLoading(true);
+    http.post('$baseUrl/login',
+        body: json.encode({"name": name, "password": password}),
+        headers: {
+          'content-type': 'application/json'
+        }).then((http.Response response) {
+      setIsLoading(false);
+      dynamic responseDecoded = json.decode(response.body);
+      if (response.statusCode == 200) {
+        print(responseDecoded);
+        try {
+          if (responseDecoded["status"] == 1) {
+            UserEntity userData = UserEntity(
+                displayName: responseDecoded["data"]["client"]["name"],
+                id: responseDecoded["data"]["client"]["id"]);
+            AppData appData = AppData(
+                token: responseDecoded["data"]["api_token"],
+                languageCode: "en");
+            Provider.of<AppStateModel>(context, listen: false)
+                .authenticate(appData, userData);
+            // Navigator.pop(context);
+            // Navigator.pop(context);
+            Navigator.pushNamedAndRemoveUntil(context, '/', (_) => false);
+          } else {
+            Toast.show(responseDecoded["message"], context,
+                duration: 5, gravity: Toast.BOTTOM);
+          }
+        } catch (e) {
+          Toast.show( AppLocalizations.of(context).error, context,
+              duration: Toast.LENGTH_SHORT, gravity: Toast.BOTTOM);
+        }
+      } else {
+        Toast.show( AppLocalizations.of(context).someThingWorngHappen, context,
+            duration: 5, gravity: Toast.BOTTOM);
+        print("error");
+      }
+    });
+  }
+}

@@ -1,0 +1,578 @@
+{
+  "@@last_modified": "2020-02-23T00:11:46.246486",
+  "appTitle": "Eln3mmy",
+  "@appTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phoneNumber": "Enter Field ",
+  "@phoneNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "vldpasswordrequired": "Please enter the password ",
+  "@vldpasswordrequired": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "vldpasswordlength": "Password Length must be 6 charachters at least. ",
+  "@vldpasswordlength": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "vldphonerequired": "Please enter the phone number ",
+  "@vldphonerequired": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "vldphonelength": "Phone Length must be 6 charachters at least. ",
+  "@vldphonelength": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "locale": "en",
+  "@locale": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "Login",
+  "@login": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userName": "User Name",
+  "@userName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "Password",
+  "@password": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetPaasword": "Have you lost the password ?",
+  "@resetPaasword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "signUp": "Sign Up",
+  "@signUp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "email": "Email",
+  "@email": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "phone": "phone",
+  "@phone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "iAgreeAll": "I Agree All",
+  "@iAgreeAll": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "termsAndConditions": "Terms And Conditions",
+  "@termsAndConditions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetPasswordAppBar": "Reset Password",
+  "@resetPasswordAppBar": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendCode": "We will send a code to your email address to set a new password",
+  "@sendCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmPassword": "Confirm Password",
+  "@confirmPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "send": "Send",
+  "@send": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "home": "Home",
+  "@home": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "section": "Section",
+  "@section": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myOrders": "Orders",
+  "@myOrders": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "favorits": "Favorits",
+  "@favorits": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myAccount": "Account",
+  "@myAccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchForProduct": "Search For Product",
+  "@searchForProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "product": "Product",
+  "@product": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "services": "Services",
+  "@services": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "offersAndDiscount": "Offers And Discount",
+  "@offersAndDiscount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shareApp": "Share App",
+  "@shareApp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "aboutApp": "About App",
+  "@aboutApp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contactus": "Contact Us",
+  "@contactus": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logOut": "Log Out",
+  "@logOut": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sectionStore": "Section Store",
+  "@sectionStore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productMedicine": "Product Medicine",
+  "@productMedicine": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "servicesMedicine": "Services Medicine",
+  "@servicesMedicine": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "orderManagment": "Order Managment",
+  "@orderManagment": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "favoriteLists": "Favorite Lists",
+  "@favoriteLists": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productFavorite": "Product Favorite",
+  "@productFavorite": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "servicesFavorite": "Services Favorite",
+  "@servicesFavorite": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "address": "Address",
+  "@address": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountDeatails": "Account Details",
+  "@accountDeatails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "replacementAndReturnPolicy": "replacement/ReturnPolicy ",
+  "@replacementAndReturnPolicy": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "replaceMentAndReturnRequest": "replaceMent/Return Request",
+  "@replaceMentAndReturnRequest": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "priacyPolicy": "Priacy Policy",
+  "@priacyPolicy": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "newUser": "New User",
+  "@newUser": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addCart": "Add Cart",
+  "@addCart": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "subscribenow": "Book Now",
+  "@subscribenow": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addNotes": "Add Notes",
+  "@addNotes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notes": "Notes",
+  "@notes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "close": "Close",
+  "@close": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "saveNow": "Save Now",
+  "@saveNow": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productDetails": "Details",
+  "@productDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "description": "Description",
+  "@description": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "productManagment": "Product Managment",
+  "@productManagment": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dateOrder": "Date Order",
+  "@dateOrder": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourOrderNum": "Your order number",
+  "@yourOrderNum": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sumOrder": "Sum Order",
+  "@sumOrder": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "serviceManagment": "Service Managment",
+  "@serviceManagment": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ordersDetails": "Orders Details",
+  "@ordersDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "welcomTo": "Welcom To",
+  "@welcomTo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shipingTo": "shiping To",
+  "@shipingTo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "theProductIncludeYourOrder": "The products included in your order",
+  "@theProductIncludeYourOrder": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "returnProduct": "Return Product",
+  "@returnProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "rateProduct": "Rate Product",
+  "@rateProduct": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cantLoad": "Cant Load",
+  "@cantLoad": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shopingCart": "Shoping Cart",
+  "@shopingCart": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youShouldLogIn": "You Should Log In",
+  "@youShouldLogIn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noData": "No Data",
+  "@noData": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notesToReqest": "Notes To Reqest",
+  "@notesToReqest": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "totalAmount": "Total Amount",
+  "@totalAmount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "tax5vat": "Tax 5 % VAT",
+  "@tax5vat": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "thePriceIncludeTax": "The price includes tax",
+  "@thePriceIncludeTax": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sum": "Sum",
+  "@sum": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "followUpThePurchase": "Follow Up The Purchase",
+  "@followUpThePurchase": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSure": "Are You Sure",
+  "@areYouSure": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "doYouWantRemove": "Do You want To Remove Te Item From cart",
+  "@doYouWantRemove": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no": "No",
+  "@no": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yes": "Yes",
+  "@yes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invoiceDetails": "Invoice Details",
+  "@invoiceDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noAddressGoToAddAddress": "No Address Go To Add Address",
+  "@noAddressGoToAddAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addAddress": "Add Address",
+  "@addAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectAddress": "Select Address",
+  "@selectAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "chanage": "Chanage",
+  "@chanage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yourOrder": "Your Order",
+  "@yourOrder": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "shipping": "Shipping",
+  "@shipping": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addresses": "Addresses",
+  "@addresses": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "firstName": "First Name",
+  "@firstName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lastName": "Last Name",
+  "@lastName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "zipCode": "ZipCode ",
+  "@zipCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "destination": "Destination ",
+  "@destination": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "region": "Region ",
+  "@region": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "editeAddress": "EditeAddress ",
+  "@editeAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmation": "Confirmation ",
+  "@confirmation": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youShouldApproveTermsAndCondition": "You Should approve the terms and condition",
+  "@youShouldApproveTermsAndCondition": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youShouldSelectaddress": "You Should Select Address",
+  "@youShouldSelectaddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "returnOrder": "Return Order",
+  "@returnOrder": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reasonreturn": " Reason Return",
+  "@reasonreturn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "error": "Error",
+  "@error": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noAddress": "No Address",
+  "@noAddress": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "someThingWorngHappen": " Some Thing Worn gHappen",
+  "@someThingWorngHappen": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetPasswordActivate": "Reset Password Activate",
+  "@resetPasswordActivate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "weWillSendCodeYouremail": "We will send a code to your email address to set a new password",
+  "@weWillSendCodeYouremail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pinCode": "Pin Code",
+  "@pinCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "newPassword": "New Password",
+  "@newPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmNewPassword": "Confirm New Password",
+  "@confirmNewPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidCode": "Invalid Code",
+  "@invalidCode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "save": "Save",
+  "@save": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "connectUs": "Connect Us",
+  "@connectUs": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "message": "Message",
+  "@message": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "repeatPassword": "Repeat Password",
+  "@repeatPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "replacementPolicy": "Replacement Policy",
+  "@replacementPolicy": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "replacementrequest": "Replacement Request",
+  "@replacementrequest": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reason": "Reason",
+  "@reason": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "replaceMentAndReturn": "Replacement/Return",
+  "@replaceMentAndReturn": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
